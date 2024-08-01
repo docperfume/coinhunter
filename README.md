@@ -2,7 +2,7 @@
 # Coinhunter
 CoinHunter BOT
 
-Register Here : [CoinHunter](https://t.me/PoPPtothemoon_bot/moon?startapp=968480911)
+Register Here : [CoinHunter](https://t.me/CoinHuntersGameBot/app?startapp=hunter_7092b564eb5f9e007d370f30b10eb2d8)
 
 
 ## Features
